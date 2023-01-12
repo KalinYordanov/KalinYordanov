@@ -1,6 +1,6 @@
 - 👋 Hi, I’m KalinYordanov
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning Java in SoftUni 
 - 💞️ I’m looking to collaborate on ...
 - 📫 kalinyordanov920815@gmail.com
 
