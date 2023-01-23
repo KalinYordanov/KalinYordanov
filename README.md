@@ -1,7 +1,6 @@
-- 👋 Hi, I’m KalinYordanov
-- 👀 I’m interested in ...
+ ## Hello, I’m KalinYordanov from Bulgaria , City Sofia. 
+- 👀 I’m interested in coding with Java  ...
 - 🌱 I’m currently learning Java in SoftUni 
-- 💞️ I’m looking to collaborate on ...
 - 📫 kalinyordanov920815@gmail.com
 
 <!---
