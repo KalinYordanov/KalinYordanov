@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning Java in SoftUni 
 - 📫 kalinyordanov920815@gmail.com
 
-
+## Skills: 
+[![My Skills](https://skillicons.dev/icons?i=java,idea,visualstudio,discord,github,regex,linux,postman)](https://skillicons.dev)
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KalinYordanov&theme=radical)
